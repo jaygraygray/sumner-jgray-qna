@@ -1,0 +1,9 @@
+body {
+  font-family: sans-serif;
+}
+
+.answers {
+  width: 400px;
+  display: flex;
+  justify-content: space-between;
+}
